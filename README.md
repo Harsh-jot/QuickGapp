@@ -1,2 +1,2 @@
 # QuickGapp
-An Application to get the best out of rest.
+An Application to get the Best out of Rest.
